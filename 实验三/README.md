@@ -1,12 +1,3 @@
-<center>哈尔滨工业大学计算机科学与技术学院</center>
-<center style="font-size:30px">实验报告 </center><br></br>
-<center>课程名称： 计算机网络</center>
-<center>课程类型： 必修</center>
-<center>实验题目： 利用 Wireshark 进行协议分析</center>
-<center>学号：1171000405</center>
-<center>姓名：许天骁</center>
-<div STYLE="page-break-after: always;"></div>
-
 #### 一、实验目的
 &ensp;&ensp;熟悉并掌握 Wireshark 的基本操作，了解网络协议实体间进行交互以
 及报文交换的情况。

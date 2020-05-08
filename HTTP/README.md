@@ -1,12 +1,3 @@
-<center>哈尔滨工业大学计算机科学与技术学院</center>
-<center style="font-size:30px">实验报告 </center><br></br>
-<center>课程名称： 计算机网络</center>
-<center>课程类型： 必修</center>
-<center>实验题目： HTTP 代理服务器的设计与实现</center><br/>
-<center>学号：1171000405</center>
-<center>姓名：许天骁</center>
-<div STYLE="page-break-after: always;"></div>
-
 #### 一、实验目的
 &ensp;&ensp;熟悉并掌握 Socket 网络编程的过程与技术；深入理解 HTTP 协议，掌握 HTTP 代理服务器的基本工作原理；掌握 HTTP 代理服务器设计与编程实现的基本技能。
 

@@ -1,12 +1,3 @@
-<center>哈尔滨工业大学计算机科学与技术学院</center>
-<center style="font-size:30px">实验报告 </center><br></br>
-<center>课程名称： 计算机网络</center>
-<center>课程类型： 必修</center>
-<center>实验题目： 简单网络组建及配置</center>
-<center>学号：1171000405</center>
-<center>姓名：许天骁</center>
-<div STYLE="page-break-after: always;"></div>
-
 #### 一、实验目的
 1. 了解网络建设的相关过程，通过分析用户需求，结合自己掌握到的网
 络知识，规划设计网络实施方案。

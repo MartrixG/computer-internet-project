@@ -1,12 +1,3 @@
-<center>哈尔滨工业大学计算机科学与技术学院</center>
-<center style="font-size:30px">实验报告 </center><br></br>
-<center>课程名称： 计算机网络</center>
-<center>课程类型： 必修</center>
-<center>实验题目： 可靠数据传输协议-GBN协议的设计与实现</center>
-<center>学号：1171000405</center>
-<center>姓名：许天骁</center>
-<div STYLE="page-break-after: always;"></div>
-
 #### 一、实验目的
 &ensp;&ensp;理解滑动窗口协议的基本原理；掌握GBN的工作原理；掌握基于UDP设计并实现一个GBN协议的过程与技术。
 
